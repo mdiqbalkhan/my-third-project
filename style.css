@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+li{
+    color: brown;
+}
+.internal{
+    color: greenyellow;
+}
+
+.blog{
+    background-color: aquamarine;
+    border: 5px solid tomato;
+    border-radius: 10px;
+    margin: 10px 500px;
+    text-align: justify;
+    padding: 20px;
+    height: 200px;
+    width: 300px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+    
+
+}
+
+.iqbal{
+    background-color: blueviolet;
+    border: 2px solid tomato;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 40px 500px;
+    text-align: justify;
+}
+
+
